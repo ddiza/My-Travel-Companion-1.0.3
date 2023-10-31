@@ -31,7 +31,7 @@ const Header = ({ setCoordinates }) => {
       <div className="w-full h-full  flex justify-between px-10">
         <div className="w-1/2  flex items-center">
           <Typography variant="h5" className={classes.title}>
-            Travel Advisor
+            My Travel Companion
           </Typography>
         </div>
         <div className="w-1/2 bg-red-330 flex items-center justify-end gap-5">
