@@ -1,5 +1,5 @@
 # My-Travel-Companion-App
-Landing Page:
+
 ![Image.png](https://github.com/ddiza/My-Travel-Companion-1.0.3/blob/main/public/loginImage.PNG)
 <br>
 ## Introduction
