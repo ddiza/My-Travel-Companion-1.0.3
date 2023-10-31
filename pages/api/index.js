@@ -12,6 +12,7 @@ export const getPlacesData = async (type, sw, ne) => {
               bl_longitude: sw.lng,
               tr_longitude: ne.lng,
               tr_latitude: ne.lat,
+              units: 'imperial',
           },
           headers: {
             "x-rapidapi-key":

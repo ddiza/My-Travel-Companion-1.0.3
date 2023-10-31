@@ -11,7 +11,7 @@ import useStyles from "./styles.js";
 const WeatherIcon = ({ weather }) => {
   return (
     <div className="w-16 flex flex-col gap-0 justify-center items-center">
-      <span className="font-bold">{((((weather.main.temp) - 273.15)*1.8)+32).toFixed(1) } <span>&#8451;</span></span>
+      <span className="font-bold">{((((weather.main.temp) - 273.15)*1.8)+32).toFixed(1)  + "°F"} <span>&#8451;</span></span>
       <img height={900} className="w-16 -mt-3" src={`http://openweathermap.org/img/w/${weather.weather[0].icon}.png`} />
 
     </div>

@@ -11,7 +11,7 @@ Throughout the process we follow:
 - Creating a User Interface using Material UI
 - Working with Google Maps API
 - Fetching data from unlimited sources using RapidAPI
-- The target users of this app are those that can go to one location to pull location data (restaurant, lodging, attractions) as opposed to multiple locations such as Google Map then separately like Yelp or similar crowd-sourced reviews about businesses. 
+- The target users of this app are those that can go to one location to pull location data (restaurant, lodging, attractions) as opposed to visiting multiple websites such as Google Map or then separately, Yelp or similar crowd-sourced review websites for businesses. 
 - The project was an excellent exercise in becoming better at working with APIs.
 
 ## ROUTES : Basic Authentication
