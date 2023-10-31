@@ -1,6 +1,6 @@
 # My-Travel-Companion-App
 Landing Page:
-![Image.png](https://github.com/ddiza/My-Travel-Companion-1.0.3/blob/main/public/HomePage.png)
+![Image.png](https://github.com/ddiza/My-Travel-Companion-1.0.3/blob/main/public/loginImage.PNG)
 <br>
 ## Introduction
 In this project, we build and deploy a Travel Companion Application using Google Maps. With the Travel Advisor API from Rapid API, Geolocation, Google Maps API, the app enables searching for places, fetching restaurants, hotels and major attractions based on a requested location. Specialized Rapid APIs are used and includes data filtering. This App includes dynamic map features and weather data as part of the request for specific locations.
